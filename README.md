@@ -1,4 +1,4 @@
-# CustomerChurnAnalysis
+# Customer Churn Analysis
 This report examines customer churn within a telecom service provider business, aiming to evaluate the churn rate among its network customers. This report was generated using Power BI.
 
 Here is the link to the variable description to this report:https://assets.datacamp.com/production/repositories/5993/datasets/c55ad82061b13bc07f6516e51cba9883a90bfa27/Metadata%20-%20Case%20Study_Analyzing%20Customer%20Churn%20in%20Power%20BI.pdf
